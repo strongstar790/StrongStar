@@ -1,2 +1,92 @@
-# StrongStar
-Herní Guilda ve hře Garena Free Fire.
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strong Star</title>
+    <style>
+        body {
+            background: linear-gradient(to bottom, #000000, #2e2e00);
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: black;
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            color: yellow;
+            margin: 0;
+        }
+        header p {
+            color: white;
+            font-style: italic;
+        }
+        main {
+            padding: 20px;
+        }
+        h2 {
+            color: yellow;
+            border-bottom: 1px solid yellow;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        footer {
+            background-color: black;
+            text-align: center;
+            padding: 10px;
+            color: white;
+            margin-top: 20px;
+        }
+        a {
+            color: yellow;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Strong Star</h1>
+        <p>"Síla, jednota, vítězství"</p>
+    </header>
+    <main>
+        <h2>Informace o guildě – Strong Star</h2>
+        <p>
+            Jsme komunita hráčů Free Fire, kteří spojuje vášeň pro hru a chuť vítězit. Naše guilda Strong Star je místem, kde najdeš přátelské prostředí, skvělou atmosféru a podporu v každém herním okamžiku. Hledáme hráče, kteří sdílí naše nadšení a chtějí se stát součástí týmu, který míří ke hvězdám!
+        </p>
+        <h2>Co nabízíme?</h2>
+        <ul>
+            <li><strong>Aktivní tým:</strong> Společně se zapojujeme do zápasů, turnajů a herních výzev.</li>
+            <li><strong>Podpora a rozvoj:</strong> Pomůžeme ti zlepšit tvé herní dovednosti a najít tvou ideální herní roli.</li>
+            <li><strong>Komunikace a spolupráce:</strong> Používáme Messenger a Instagram, abychom zůstali v kontaktu a vždy byli dobře organizovaní.</li>
+            <li><strong>Přátelské prostředí:</strong> Naše guilda je místem, kde se můžeš cítit jako doma – žádné zbytečné drama, jen skvělá zábava.</li>
+        </ul>
+        <h2>Proč se přidat?</h2>
+        <p>
+            Strong Star není jen guilda, je to rodina hráčů, kteří se navzájem podporují a společně si užívají každou chvíli na bojišti. Ať už jsi zkušený veterán nebo začátečník, u nás má každý šanci ukázat svůj potenciál.
+        </p>
+        <p>Staň se součástí Strong Star a zazáři spolu s námi!</p>
+        <h2>Kontakt:</h2>
+        <ul>
+            <li><a href="https://m.me/FilipTurtak">Filip Turtak</a></li>
+            <li><a href="https://m.me/AnkaAnka">Anka Anka</a></li>
+            <li><a href="https://m.me/VaclavZelenka">Václav Zelenka</a></li>
+        </ul>
+    </main>
+    <footer>
+        © 2025 Strong Star
+    </footer>
+</body>
+</html>
